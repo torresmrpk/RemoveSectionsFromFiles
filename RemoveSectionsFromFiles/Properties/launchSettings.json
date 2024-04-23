@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "RemoveSectionsFromFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "-d \"C:\\Users\\torre\\source\\Test\" -p\"*.sln\" -o\"GlobalSection(SolutionConfigurationPlatforms) = preSolution\" -c\"EndGlobalSection\""
+    }
+  }
+}
